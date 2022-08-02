@@ -1,0 +1,966 @@
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+Décallage flèche DROITE
+Décallage flèche HAUT
+Décallage flèche GAUCHE
+Décallage flèche DROITE
+Décallage flèche BAS
+4 résultat d'une fusion dans (4, 4)
+Décallage flèche GAUCHE
+8 résultat d'une fusion dans (4, 2)
+Décallage flèche HAUT
+Décallage flèche DROITE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (1, 1)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (1, 3)
+Décallage flèche DROITE
+Décallage flèche BAS
+4 résultat d'une fusion dans (4, 3)
+8 résultat d'une fusion dans (4, 4)
+Décallage flèche GAUCHE
+Décallage flèche HAUT
+8 résultat d'une fusion dans (2, 1)
+Décallage flèche DROITE
+4 résultat d'une fusion dans (1, 3)
+16 résultat d'une fusion dans (2, 3)
+Décallage flèche BAS
+4 résultat d'une fusion dans (4, 4)
+Décallage flèche GAUCHE
+8 résultat d'une fusion dans (3, 1)
+4 résultat d'une fusion dans (4, 1)
+Décallage flèche HAUT
+16 résultat d'une fusion dans (1, 1)
+Décallage flèche BAS
+Décallage flèche GAUCHE
+Décallage flèche HAUT
+Click sur "Nouveau jeu"
+Nouveau jeu
+Fermer fenetre
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+Décallage flèche HAUT
+Décallage flèche DROITE
+4 résultat d'une fusion dans (1, 4)
+Décallage flèche DROITE
+Décallage flèche HAUT
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (1, 1)
+Décallage flèche GAUCHE
+8 résultat d'une fusion dans (1, 1)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (2, 1)
+Décallage flèche DROITE
+Décallage flèche DROITE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche GAUCHE
+8 résultat d'une fusion dans (3, 1)
+Décallage flèche GAUCHE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (1, 3)
+Décallage flèche DROITE
+Décallage flèche HAUT
+8 résultat d'une fusion dans (1, 3)
+4 résultat d'une fusion dans (1, 4)
+Décallage flèche HAUT
+Décallage flèche GAUCHE
+16 résultat d'une fusion dans (1, 2)
+4 résultat d'une fusion dans (2, 1)
+Décallage flèche DROITE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (1, 1)
+Décallage flèche HAUT
+Décallage flèche DROITE
+Décallage flèche GAUCHE
+Décallage flèche DROITE
+Décallage flèche HAUT
+8 résultat d'une fusion dans (1, 3)
+4 résultat d'une fusion dans (2, 2)
+8 résultat d'une fusion dans (2, 3)
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche GAUCHE
+16 résultat d'une fusion dans (2, 2)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (1, 1)
+32 résultat d'une fusion dans (1, 2)
+4 résultat d'une fusion dans (1, 4)
+Décallage flèche DROITE
+Décallage flèche GAUCHE
+8 résultat d'une fusion dans (2, 1)
+Décallage flèche DROITE
+4 résultat d'une fusion dans (2, 4)
+Décallage flèche HAUT
+16 résultat d'une fusion dans (1, 3)
+8 résultat d'une fusion dans (1, 4)
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (2, 1)
+Décallage flèche DROITE
+Décallage flèche GAUCHE
+Décallage flèche HAUT
+8 résultat d'une fusion dans (2, 1)
+Décallage flèche DROITE
+4 résultat d'une fusion dans (2, 4)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (2, 4)
+Décallage flèche GAUCHE
+16 résultat d'une fusion dans (2, 2)
+Click sur "Sauvegarde" du jeu
+Fermer fenetre
+
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+Décallage flèche HAUT
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (1, 1)
+Décallage flèche DROITE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (2, 4)
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (1, 1)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (1, 1)
+Décallage flèche DROITE
+Décallage flèche GAUCHE
+Décallage flèche DROITE
+4 résultat d'une fusion dans (4, 4)
+Décallage flèche BAS
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche GAUCHE
+8 résultat d'une fusion dans (4, 2)
+Décallage flèche HAUT
+Décallage flèche DROITE
+4 résultat d'une fusion dans (1, 3)
+16 résultat d'une fusion dans (2, 4)
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche GAUCHE
+8 résultat d'une fusion dans (1, 1)
+Décallage flèche BAS
+Décallage flèche DROITE
+Décallage flèche GAUCHE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (1, 3)
+Click sur "Sauvegarde" du jeu
+Click sur "Récupérer" jeu
+Click sur "Nouveau jeu"
+Nouveau jeu
+Ouverture de l'historique
+Fermeture de l'historique
+Décallage click HAUT
+Fermer fenetre
+
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+Fermer fenetre
+
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+DÃ©callage flÃ¨che GAUCHE
+DÃ©callage flÃ¨che HAUT
+4 rÃ©sultat d'une fusion dans (1, 1)
+DÃ©callage flÃ¨che DROITE
+DÃ©callage flÃ¨che BAS
+4 rÃ©sultat d'une fusion dans (4, 4)
+DÃ©callage flÃ¨che GAUCHE
+DÃ©callage flÃ¨che HAUT
+DÃ©callage flÃ¨che DROITE
+DÃ©callage flÃ¨che GAUCHE
+DÃ©callage flÃ¨che BAS
+8 rÃ©sultat d'une fusion dans (3, 1)
+DÃ©callage flÃ¨che GAUCHE
+4 rÃ©sultat d'une fusion dans (4, 1)
+4 rÃ©sultat d'une fusion dans (4, 2)
+DÃ©callage flÃ¨che HAUT
+4 rÃ©sultat d'une fusion dans (1, 1)
+8 rÃ©sultat d'une fusion dans (1, 2)
+DÃ©callage flÃ¨che DROITE
+DÃ©callage flÃ¨che GAUCHE
+DÃ©callage flÃ¨che BAS
+DÃ©callage flÃ¨che GAUCHE
+4 rÃ©sultat d'une fusion dans (4, 1)
+4 rÃ©sultat d'une fusion dans (4, 2)
+DÃ©callage flÃ¨che HAUT
+8 rÃ©sultat d'une fusion dans (3, 1)
+DÃ©callage flÃ¨che DROITE
+4 rÃ©sultat d'une fusion dans (1, 4)
+16 rÃ©sultat d'une fusion dans (2, 4)
+DÃ©callage flÃ¨che GAUCHE
+8 rÃ©sultat d'une fusion dans (1, 2)
+DÃ©callage flÃ¨che HAUT
+DÃ©callage flÃ¨che DROITE
+4 rÃ©sultat d'une fusion dans (1, 4)
+DÃ©callage flÃ¨che HAUT
+4 rÃ©sultat d'une fusion dans (1, 2)
+8 rÃ©sultat d'une fusion dans (1, 4)
+DÃ©callage flÃ¨che GAUCHE
+16 rÃ©sultat d'une fusion dans (1, 2)
+4 rÃ©sultat d'une fusion dans (3, 1)
+DÃ©callage flÃ¨che HAUT
+DÃ©callage flÃ¨che DROITE
+DÃ©callage flÃ¨che GAUCHE
+8 rÃ©sultat d'une fusion dans (3, 1)
+DÃ©callage flÃ¨che DROITE
+DÃ©callage flÃ¨che BAS
+16 rÃ©sultat d'une fusion dans (4, 3)
+4 rÃ©sultat d'une fusion dans (4, 4)
+DÃ©callage flÃ¨che GAUCHE
+32 rÃ©sultat d'une fusion dans (3, 1)
+DÃ©callage flÃ¨che HAUT
+DÃ©callage flÃ¨che DROITE
+DÃ©callage flÃ¨che BAS
+4 rÃ©sultat d'une fusion dans (3, 3)
+8 rÃ©sultat d'une fusion dans (3, 4)
+4 rÃ©sultat d'une fusion dans (4, 3)
+DÃ©callage flÃ¨che GAUCHE
+8 rÃ©sultat d'une fusion dans (3, 2)
+DÃ©callage flÃ¨che HAUT
+4 rÃ©sultat d'une fusion dans (1, 1)
+DÃ©callage flÃ¨che DROITE
+DÃ©callage flÃ¨che BAS
+DÃ©callage flÃ¨che GAUCHE
+4 rÃ©sultat d'une fusion dans (4, 1)
+DÃ©callage flÃ¨che HAUT
+8 rÃ©sultat d'une fusion dans (3, 1)
+DÃ©callage flÃ¨che DROITE
+4 rÃ©sultat d'une fusion dans (1, 4)
+DÃ©callage flÃ¨che HAUT
+Fermer fenetre
+
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+Fermer fenetre
+
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+Décallage flèche HAUT
+Décallage flèche DROITE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (2, 4)
+Décallage flèche GAUCHE
+Décallage flèche HAUT
+Décallage flèche DROITE
+4 résultat d'une fusion dans (2, 4)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (1, 4)
+Décallage flèche HAUT
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (1, 1)
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (3, 1)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (1, 1)
+Décallage flèche DROITE
+16 résultat d'une fusion dans (1, 3)
+4 résultat d'une fusion dans (2, 4)
+Décallage flèche HAUT
+Décallage flèche GAUCHE
+8 résultat d'une fusion dans (2, 1)
+Décallage flèche HAUT
+Décallage flèche DROITE
+4 résultat d'une fusion dans (1, 4)
+Décallage flèche GAUCHE
+Décallage flèche DROITE
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche HAUT
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (1, 1)
+Décallage flèche GAUCHE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (2, 2)
+Décallage flèche HAUT
+Click sur "Sauvegarde" du jeu
+Click sur "Récupérer" jeu
+Click sur "Récupérer" jeu
+Décallage flèche DROITE
+4 résultat d'une fusion dans (2, 4)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (1, 4)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 2)
+Décallage flèche DROITE
+8 résultat d'une fusion dans (2, 4)
+Décallage flèche DROITE
+16 résultat d'une fusion dans (2, 4)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (2, 1)
+8 résultat d'une fusion dans (3, 1)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (1, 1)
+32 résultat d'une fusion dans (1, 2)
+Décallage flèche HAUT
+16 résultat d'une fusion dans (1, 1)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (2, 3)
+Décallage flèche DROITE
+8 résultat d'une fusion dans (2, 4)
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche HAUT
+16 résultat d'une fusion dans (1, 4)
+Décallage flèche GAUCHE
+Décallage flèche HAUT
+Décallage flèche DROITE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (1, 1)
+4 résultat d'une fusion dans (2, 4)
+Décallage flèche HAUT
+Décallage flèche DROITE
+8 résultat d'une fusion dans (2, 4)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (2, 3)
+Décallage flèche HAUT
+Décallage flèche GAUCHE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (2, 1)
+8 résultat d'une fusion dans (2, 2)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (1, 1)
+Décallage flèche DROITE
+16 résultat d'une fusion dans (2, 4)
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche HAUT
+32 résultat d'une fusion dans (1, 4)
+Décallage flèche GAUCHE
+64 résultat d'une fusion dans (1, 3)
+8 résultat d'une fusion dans (2, 2)
+Décallage flèche DROITE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche HAUT
+Décallage flèche DROITE
+4 résultat d'une fusion dans (2, 3)
+8 résultat d'une fusion dans (3, 4)
+Décallage flèche HAUT
+16 résultat d'une fusion dans (2, 4)
+Décallage flèche GAUCHE
+Décallage flèche HAUT
+Décallage flèche DROITE
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (2, 3)
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (2, 1)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (2, 1)
+Décallage flèche HAUT
+16 résultat d'une fusion dans (1, 1)
+4 résultat d'une fusion dans (1, 4)
+Décallage flèche DROITE
+32 résultat d'une fusion dans (1, 2)
+Décallage flèche DROITE
+4 résultat d'une fusion dans (4, 4)
+Décallage flèche HAUT
+Décallage flèche DROITE
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (2, 2)
+8 résultat d'une fusion dans (3, 4)
+Décallage flèche GAUCHE
+Décallage flèche HAUT
+16 résultat d'une fusion dans (2, 2)
+Décallage flèche DROITE
+32 résultat d'une fusion dans (2, 4)
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (3, 1)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (2, 1)
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (3, 1)
+Décallage flèche GAUCHE
+Décallage flèche DROITE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche GAUCHE
+8 résultat d'une fusion dans (3, 1)
+Décallage flèche HAUT
+Décallage flèche HAUT
+4 résultat d'une fusion dans (1, 4)
+Décallage flèche DROITE
+8 résultat d'une fusion dans (1, 4)
+4 résultat d'une fusion dans (4, 4)
+Décallage flèche HAUT
+16 résultat d'une fusion dans (2, 3)
+8 résultat d'une fusion dans (3, 4)
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (2, 1)
+Décallage flèche DROITE
+Décallage flèche HAUT
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (3, 1)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (2, 1)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 1)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (3, 1)
+Décallage flèche HAUT
+16 résultat d'une fusion dans (2, 1)
+Décallage flèche DROITE
+32 résultat d'une fusion dans (2, 2)
+Décallage flèche DROITE
+64 résultat d'une fusion dans (2, 3)
+Décallage flèche HAUT
+128 résultat d'une fusion dans (1, 3)
+4 résultat d'une fusion dans (2, 4)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (2, 2)
+8 résultat d'une fusion dans (2, 4)
+Décallage flèche HAUT
+16 résultat d'une fusion dans (1, 4)
+4 résultat d'une fusion dans (3, 3)
+Décallage flèche HAUT
+Décallage flèche HAUT
+Décallage flèche DROITE
+Décallage flèche HAUT
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (3, 1)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (1, 1)
+8 résultat d'une fusion dans (2, 2)
+4 résultat d'une fusion dans (2, 4)
+Décallage flèche DROITE
+16 résultat d'une fusion dans (2, 3)
+Décallage flèche HAUT
+Décallage flèche DROITE
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (4, 1)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (2, 1)
+8 résultat d'une fusion dans (2, 4)
+Décallage flèche DROITE
+8 résultat d'une fusion dans (2, 2)
+Décallage flèche DROITE
+Décallage flèche DROITE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche HAUT
+Décallage flèche DROITE
+4 résultat d'une fusion dans (3, 3)
+8 résultat d'une fusion dans (3, 4)
+Décallage flèche HAUT
+16 résultat d'une fusion dans (2, 4)
+Décallage flèche HAUT
+32 résultat d'une fusion dans (1, 4)
+Décallage flèche DROITE
+4 résultat d'une fusion dans (3, 3)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (2, 1)
+Décallage flèche DROITE
+8 résultat d'une fusion dans (3, 4)
+4 résultat d'une fusion dans (4, 4)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (1, 1)
+Décallage flèche GAUCHE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (2, 1)
+16 résultat d'une fusion dans (2, 2)
+4 résultat d'une fusion dans (2, 4)
+Décallage flèche DROITE
+32 résultat d'une fusion dans (2, 3)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (2, 4)
+Décallage flèche DROITE
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (2, 1)
+Décallage flèche DROITE
+8 résultat d'une fusion dans (2, 2)
+Décallage flèche DROITE
+Décallage flèche GAUCHE
+Décallage flèche DROITE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 3)
+Décallage flèche DROITE
+8 résultat d'une fusion dans (3, 4)
+4 résultat d'une fusion dans (4, 4)
+Décallage flèche HAUT
+16 résultat d'une fusion dans (2, 4)
+Décallage flèche DROITE
+4 résultat d'une fusion dans (3, 3)
+Décallage flèche DROITE
+8 résultat d'une fusion dans (3, 4)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (2, 1)
+Décallage flèche DROITE
+4 résultat d'une fusion dans (4, 4)
+Décallage flèche DROITE
+Décallage flèche HAUT
+Décallage flèche DROITE
+4 résultat d'une fusion dans (3, 3)
+Décallage flèche GAUCHE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 1)
+8 résultat d'une fusion dans (3, 2)
+Décallage flèche DROITE
+16 résultat d'une fusion dans (3, 3)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche DROITE
+4 résultat d'une fusion dans (4, 4)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (3, 4)
+Décallage flèche GAUCHE
+Décallage flèche DROITE
+4 résultat d'une fusion dans (4, 4)
+Décallage flèche DROITE
+8 résultat d'une fusion dans (4, 4)
+Décallage flèche HAUT
+16 résultat d'une fusion dans (3, 4)
+Décallage flèche DROITE
+32 résultat d'une fusion dans (3, 4)
+4 résultat d'une fusion dans (4, 4)
+Décallage flèche GAUCHE
+8 résultat d'une fusion dans (4, 1)
+Décallage flèche HAUT
+64 résultat d'une fusion dans (2, 3)
+Décallage flèche DROITE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 2)
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche DROITE
+8 résultat d'une fusion dans (3, 4)
+Décallage flèche HAUT
+16 résultat d'une fusion dans (3, 4)
+Décallage flèche HAUT
+32 résultat d'une fusion dans (2, 4)
+Décallage flèche DROITE
+4 résultat d'une fusion dans (3, 3)
+4 résultat d'une fusion dans (4, 4)
+Décallage flèche HAUT
+64 résultat d'une fusion dans (1, 4)
+8 résultat d'une fusion dans (2, 4)
+Décallage flèche DROITE
+Décallage flèche HAUT
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (3, 1)
+Décallage flèche DROITE
+8 résultat d'une fusion dans (3, 3)
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 4)
+Décallage flèche DROITE
+Décallage flèche HAUT
+8 résultat d'une fusion dans (3, 4)
+Décallage flèche HAUT
+16 résultat d'une fusion dans (2, 4)
+4 résultat d'une fusion dans (3, 1)
+Décallage flèche DROITE
+Décallage flèche HAUT
+8 résultat d'une fusion dans (2, 1)
+Décallage flèche GAUCHE
+16 résultat d'une fusion dans (2, 1)
+Décallage flèche HAUT
+Décallage flèche DROITE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 1)
+Décallage flèche DROITE
+8 résultat d'une fusion dans (3, 2)
+Décallage flèche GAUCHE
+Décallage flèche DROITE
+4 résultat d'une fusion dans (4, 4)
+Décallage flèche DROITE
+4 résultat d'une fusion dans (4, 3)
+8 résultat d'une fusion dans (4, 4)
+Décallage flèche HAUT
+16 résultat d'une fusion dans (3, 4)
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (4, 1)
+Décallage flèche DROITE
+8 résultat d'une fusion dans (4, 3)
+Décallage flèche GAUCHE
+Décallage flèche HAUT
+4 résultat d'une fusion dans (3, 1)
+16 résultat d'une fusion dans (3, 2)
+4 résultat d'une fusion dans (3, 3)
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (4, 1)
+Décallage flèche HAUT
+8 résultat d'une fusion dans (3, 1)
+Décallage flèche GAUCHE
+4 résultat d'une fusion dans (4, 1)
+Décallage flèche GAUCHE
+Décallage flèche GAUCHE
+Décallage flèche HAUT
+8 résultat d'une fusion dans (3, 3)
+Décallage flèche DROITE
+4 résultat d'une fusion dans (4, 4)
+Fermer fenetre
+
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che GAUCHE
+4 rï¿½sultat d'une fusion dans (1, 1)
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che DROITE
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che DROITE
+8 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che DROITE
+4 rï¿½sultat d'une fusion dans (1, 3)
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che GAUCHE
+8 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che DROITE
+Dï¿½callage flï¿½che HAUT
+16 rï¿½sultat d'une fusion dans (1, 3)
+4 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (1, 1)
+Dï¿½callage flï¿½che GAUCHE
+8 rï¿½sultat d'une fusion dans (1, 1)
+4 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che DROITE
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che DROITE
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (1, 1)
+4 rï¿½sultat d'une fusion dans (3, 4)
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che HAUT
+16 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che DROITE
+32 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (1, 1)
+Dï¿½callage flï¿½che GAUCHE
+16 rï¿½sultat d'une fusion dans (1, 1)
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (1, 3)
+4 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che GAUCHE
+8 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che GAUCHE
+4 rï¿½sultat d'une fusion dans (2, 2)
+4 rï¿½sultat d'une fusion dans (3, 1)
+Dï¿½callage flï¿½che DROITE
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che DROITE
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che DROITE
+16 rï¿½sultat d'une fusion dans (2, 4)
+4 rï¿½sultat d'une fusion dans (3, 4)
+Click sur "Sauvegarde" du jeu
+Click sur "Rï¿½cupï¿½rer" jeu
+Fermer fenÃªtre
+
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+Fermer fenÃªtre
+
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+Fermer fenÃªtre
+
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+Fermer fenÃªtre
+
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+Click sur "RÃ©cupÃ©rer" jeu
+Fermer fenÃªtre
+
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+Click sur "RÃ©cupÃ©rer" jeu
+Fermer fenÃªtre
+
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+Click sur "RÃ©cupÃ©rer" jeu
+Click sur "RÃ©cupÃ©rer" jeu
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (1, 1)
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+32 rï¿½sultat d'une fusion dans (1, 2)
+4 rï¿½sultat d'une fusion dans (2, 1)
+Click sur "Sauvegarde" du jeu
+Click sur "RÃ©cupÃ©rer" jeu
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (1, 1)
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che DROITE
+8 rï¿½sultat d'une fusion dans (3, 4)
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che GAUCHE
+4 rï¿½sultat d'une fusion dans (2, 1)
+4 rï¿½sultat d'une fusion dans (4, 1)
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (1, 1)
+32 rï¿½sultat d'une fusion dans (1, 2)
+Dï¿½callage flï¿½che GAUCHE
+64 rï¿½sultat d'une fusion dans (1, 2)
+Dï¿½callage flï¿½che DROITE
+Click sur "RÃ©cupÃ©rer" jeu
+Click sur "RÃ©cupÃ©rer" jeu
+Fermer fenÃªtre
+
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che GAUCHE
+4 rï¿½sultat d'une fusion dans (1, 2)
+Dï¿½callage flï¿½che DROITE
+8 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che GAUCHE
+4 rï¿½sultat d'une fusion dans (3, 1)
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che DROITE
+4 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (3, 4)
+Dï¿½callage flï¿½che GAUCHE
+Click sur "RÃ©cupÃ©rer" jeu
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (1, 1)
+Dï¿½callage flï¿½che GAUCHE
+64 rï¿½sultat d'une fusion dans (1, 2)
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che DROITE
+Dï¿½callage flï¿½che GAUCHE
+4 rï¿½sultat d'une fusion dans (3, 1)
+Dï¿½callage flï¿½che DROITE
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (3, 4)
+Dï¿½callage flï¿½che GAUCHE
+8 rï¿½sultat d'une fusion dans (3, 1)
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (2, 3)
+Dï¿½callage flï¿½che DROITE
+8 rï¿½sultat d'une fusion dans (2, 4)
+4 rï¿½sultat d'une fusion dans (4, 4)
+Dï¿½callage flï¿½che GAUCHE
+4 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che BAS
+16 rï¿½sultat d'une fusion dans (4, 3)
+4 rï¿½sultat d'une fusion dans (4, 4)
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che GAUCHE
+4 rï¿½sultat d'une fusion dans (4, 2)
+Dï¿½callage flï¿½che DROITE
+8 rï¿½sultat d'une fusion dans (4, 3)
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che DROITE
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (2, 1)
+8 rï¿½sultat d'une fusion dans (2, 3)
+16 rï¿½sultat d'une fusion dans (3, 2)
+Dï¿½callage flï¿½che GAUCHE
+8 rï¿½sultat d'une fusion dans (3, 3)
+Dï¿½callage flï¿½che GAUCHE
+4 rï¿½sultat d'une fusion dans (4, 1)
+Dï¿½callage flï¿½che HAUT
+16 rï¿½sultat d'une fusion dans (1, 1)
+16 rï¿½sultat d'une fusion dans (2, 3)
+4 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+32 rï¿½sultat d'une fusion dans (1, 3)
+8 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che DROITE
+4 rï¿½sultat d'une fusion dans (4, 4)
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (1, 2)
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (1, 2)
+4 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che DROITE
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (3, 4)
+Dï¿½callage flï¿½che DROITE
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che HAUT
+16 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che DROITE
+4 rï¿½sultat d'une fusion dans (3, 4)
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che DROITE
+4 rï¿½sultat d'une fusion dans (3, 2)
+4 rï¿½sultat d'une fusion dans (4, 4)
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (2, 2)
+8 rï¿½sultat d'une fusion dans (3, 4)
+Dï¿½callage flï¿½che HAUT
+16 rï¿½sultat d'une fusion dans (1, 2)
+16 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che HAUT
+32 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che GAUCHE
+32 rï¿½sultat d'une fusion dans (1, 1)
+64 rï¿½sultat d'une fusion dans (1, 2)
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (3, 1)
+Dï¿½callage flï¿½che GAUCHE
+128 rï¿½sultat d'une fusion dans (1, 2)
+4 rï¿½sultat d'une fusion dans (2, 2)
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (2, 3)
+8 rï¿½sultat d'une fusion dans (3, 1)
+Dï¿½callage flï¿½che DROITE
+8 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che HAUT
+16 rï¿½sultat d'une fusion dans (2, 3)
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (1, 1)
+8 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che DROITE
+32 rï¿½sultat d'une fusion dans (2, 3)
+4 rï¿½sultat d'une fusion dans (3, 4)
+Dï¿½callage flï¿½che HAUT
+16 rï¿½sultat d'une fusion dans (1, 4)
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che DROITE
+4 rï¿½sultat d'une fusion dans (3, 4)
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (2, 2)
+8 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (1, 1)
+64 rï¿½sultat d'une fusion dans (1, 2)
+Dï¿½callage flï¿½che DROITE
+4 rï¿½sultat d'une fusion dans (2, 3)
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che DROITE
+4 rï¿½sultat d'une fusion dans (3, 4)
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che GAUCHE
+4 rï¿½sultat d'une fusion dans (4, 1)
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (3, 1)
+Dï¿½callage flï¿½che DROITE
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (3, 4)
+Dï¿½callage flï¿½che DROITE
+4 rï¿½sultat d'une fusion dans (2, 2)
+Dï¿½callage flï¿½che DROITE
+8 rï¿½sultat d'une fusion dans (2, 3)
+Dï¿½callage flï¿½che DROITE
+16 rï¿½sultat d'une fusion dans (2, 4)
+4 rï¿½sultat d'une fusion dans (4, 4)
+Dï¿½callage flï¿½che HAUT
+32 rï¿½sultat d'une fusion dans (1, 4)
+8 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che DROITE
+4 rï¿½sultat d'une fusion dans (2, 3)
+16 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che GAUCHE
+4 rï¿½sultat d'une fusion dans (3, 1)
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che HAUT
+16 rï¿½sultat d'une fusion dans (1, 1)
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che DROITE
+4 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (3, 4)
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (2, 1)
+8 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che GAUCHE
+8 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che DROITE
+4 rï¿½sultat d'une fusion dans (3, 4)
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che DROITE
+4 rï¿½sultat d'une fusion dans (4, 4)
+Dï¿½callage flï¿½che GAUCHE
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che GAUCHE
+16 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che HAUT
+32 rï¿½sultat d'une fusion dans (1, 1)
+Dï¿½callage flï¿½che DROITE
+8 rï¿½sultat d'une fusion dans (3, 3)
+4 rï¿½sultat d'une fusion dans (3, 4)
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che DROITE
+4 rï¿½sultat d'une fusion dans (2, 2)
+Dï¿½callage flï¿½che HAUT
+Dï¿½callage flï¿½che DROITE
+8 rï¿½sultat d'une fusion dans (2, 2)
+4 rï¿½sultat d'une fusion dans (3, 2)
+Dï¿½callage flï¿½che GAUCHE
+4 rï¿½sultat d'une fusion dans (4, 1)
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (3, 1)
+Dï¿½callage flï¿½che HAUT
+16 rï¿½sultat d'une fusion dans (2, 1)
+4 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che GAUCHE
+32 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che HAUT
+64 rï¿½sultat d'une fusion dans (1, 1)
+Dï¿½callage flï¿½che DROITE
+128 rï¿½sultat d'une fusion dans (1, 2)
+16 rï¿½sultat d'une fusion dans (2, 2)
+Dï¿½callage flï¿½che DROITE
+256 rï¿½sultat d'une fusion dans (1, 3)
+4 rï¿½sultat d'une fusion dans (4, 4)
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (2, 3)
+4 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che DROITE
+Dï¿½callage flï¿½che HAUT
+8 rï¿½sultat d'une fusion dans (2, 4)
+Dï¿½callage flï¿½che GAUCHE
+16 rï¿½sultat d'une fusion dans (2, 1)
+Dï¿½callage flï¿½che HAUT
+4 rï¿½sultat d'une fusion dans (3, 1)
+Click sur "Sauvegarde" du jeu
+Fermer fenÃªtre
+
+Nouveau jeu. NbCols : 4, NbLignes : 4, But a atteindre : 2048
+Fermer fenÃªtre
+

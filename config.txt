@@ -1,0 +1,1 @@
+ALL	logs/trace2048.txt
